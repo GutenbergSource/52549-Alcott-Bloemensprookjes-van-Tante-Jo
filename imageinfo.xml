@@ -1,0 +1,46 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/back.jpg" filesize="59222" filedate="2016-07-02 10:12:41" width="545px" height="720px">
+</image>
+<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/cover.jpg" filesize="72151" filedate="2016-07-02 08:22:38" width="549px" height="720px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+</image>
+<image path="images/p001.jpg" filesize="60888" filedate="2016-07-02 08:29:39" width="408px" height="438px">
+</image>
+<image path="images/p009.jpg" filesize="11374" filedate="2016-07-02 10:08:51" width="224px" height="257px">
+</image>
+<image path="images/p010.jpg" filesize="60940" filedate="2016-07-02 15:57:15" width="400px" height="410px">
+</image>
+<image path="images/p029.jpg" filesize="56638" filedate="2016-07-02 16:01:15" width="409px" height="434px">
+</image>
+<image path="images/p055.jpg" filesize="17005" filedate="2016-07-02 16:04:23" width="271px" height="214px">
+</image>
+<image path="images/p056.jpg" filesize="44523" filedate="2016-07-02 16:08:22" width="375px" height="451px">
+</image>
+<image path="images/p093.jpg" filesize="18796" filedate="2016-07-02 16:10:37" width="283px" height="235px">
+</image>
+<image path="images/p094.jpg" filesize="40304" filedate="2016-07-02 16:15:06" width="407px" height="398px">
+</image>
+<image path="images/p124.jpg" filesize="20275" filedate="2016-07-02 16:17:53" width="233px" height="300px">
+</image>
+<image path="images/p125.jpg" filesize="42670" filedate="2016-07-02 17:03:25" width="345px" height="412px">
+</image>
+<image path="images/p160.jpg" filesize="54752" filedate="2016-07-02 17:06:38" width="375px" height="444px">
+</image>
+<image path="images/p176.jpg" filesize="59918" filedate="2016-07-03 05:59:16" width="373px" height="438px">
+</image>
+<image path="images/p200.jpg" filesize="67997" filedate="2016-07-03 06:03:24" width="376px" height="441px">
+</image>
+<image path="images/p216.jpg" filesize="56555" filedate="2016-07-03 06:08:10" width="410px" height="433px">
+</image>
+<image path="images/p237.jpg" filesize="64236" filedate="2016-07-03 06:11:51" width="403px" height="412px">
+</image>
+<image path="images/spine.jpg" filesize="17818" filedate="2016-07-02 08:33:28" width="128px" height="720px">
+</image>
+<image path="images/titlepage.png" filesize="9547" filedate="2016-07-02 10:16:46" width="529px" height="720px">
+</image>
+</images>
