@@ -8,8 +8,8 @@
 <fileDesc>
 <titleStmt>
 <title>Bloemensprookjes van Tante Jo</title>
-<author key="Alcott, Louise May" ref="https://viaf.org/viaf/29528997">Louise May Alcott (1832&ndash;1888)</author>
-<respStmt><resp>Transcription</resp> <name>Jeroen Hellingman</name></respStmt>
+<author key="Alcott, Louise May" ref="https://viaf.org/viaf/29528997/">Louise May Alcott (1832&ndash;1888)</author>
+<respStmt><resp>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
 </titleStmt>
 <publicationStmt>
 <publisher>Project Gutenberg</publisher>
@@ -27,7 +27,7 @@
 <availability lang=nl>
 <p>&availability.nl;
 
-<p>Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op <xref url="http://www.pgdp.net/">www.pgdp.net</xref>.
+<p>Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op <xref url="https://www.pgdp.net/">www.pgdp.net</xref>.
 
 <p>Vertaling van <hi lang=en>Flower Fables</hi>, beschikbaar in Project Gutenberg als eboek <xref url="pg:163">163</xref>.
 
@@ -95,7 +95,7 @@
 
 <lb>TANTE JO</titlePart>
 
-<titlePart type=Sub>TWEEDE DRUK VAN
+<titlePart type=sub>TWEEDE DRUK VAN
 &bdquo;OP DE WANDELING&rdquo; en &bdquo;ONDER &apos;T LOMMER&rdquo;</titlePart></docTitle>
 
 
@@ -2695,7 +2695,7 @@
 
 
 <pb id=pb251 n=251>
-<div1 id=ads2 type=Ads>
+<div1 id=ads2 type=Advertisements>
 
 
 <p>Bij P. N. VAN KAMPEN &amp; ZOON te <hi>Amsterdam</hi> verscheen mede:
@@ -2783,10 +2783,10 @@ TEI header
 [ ] Fill in description in noteStmt.
 [ ] Fill in keywords / Subjects
 [X] Add auto-generated colophon divGen tag.
-[ ] Fill in reference to LOC record (http://catalog.loc.gov/).
-[ ] Fill in reference to OpenLibrary record (http://openlibrary.org).
-[ ] Fill in reference to WorldCat record (source and work) (http://www.worldcat.org).
-[X] Generate unique epub-id. (http://www.guidgenerator.com/)
+[ ] Fill in reference to LOC record (https://catalog.loc.gov/).
+[ ] Fill in reference to OpenLibrary record (https://openlibrary.org).
+[ ] Fill in reference to WorldCat record (source and work) (https://www.worldcat.org).
+[X] Generate unique epub-id. (https://www.guidgenerator.com/)
 
 Verse
 
